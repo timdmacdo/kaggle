@@ -199,7 +199,7 @@
 2002,198,Tulsa,30,17,13,1933,64.4,tulsa,3409
 2002,199,Kentucky,29,9,20,1868,64.4,kentucky,3246
 2002,200,Maine,28,16,12,1802,64.4,maine,3263
-2002,201,Army West Point,29,11,18,1864,64.3,armstrong,3118
+2002,201,Army West Point,29,11,18,1864,64.3,armstrong,3119
 2002,202,Campbell,28,13,15,1799,64.3,campbell,3144
 2002,203,Elon,28,15,13,1794,64.1,elon,3189
 2002,204,Winthrop,29,11,18,1858,64.1,winthrop,3457
@@ -254,7 +254,7 @@
 2002,252,Charleston So.,28,12,16,1701,60.8,charleston so.,3149
 2002,254,Florida A&M,29,11,18,1759,60.7,florida a&m,3197
 2002,255,UMES,29,12,17,1758,60.6,umes,3271
-2002,256,CSUN,26,2,24,1574,60.5,lsu,3261
+2002,256,CSUN,26,2,24,1574,60.5,lsu,3169
 2002,257,UC Irvine,28,8,20,1695,60.5,uc irvine,3414
 2002,258,Wright St.,28,6,22,1691,60.4,wright st.,3460
 2002,259,UTEP,28,3,25,1686,60.2,utep,3431
@@ -489,7 +489,7 @@
 2003,169,Memphis,28,13,15,1817,64.9,memphis,3272
 2003,170,Centenary (LA),28,8,20,1815,64.8,centenary (la),3147
 2003,170,Wagner,28,15,13,1815,64.8,wagner,3447
-2003,172,Army West Point,31,15,16,2009,64.8,armstrong,3118
+2003,172,Army West Point,31,15,16,2009,64.8,armstrong,3119
 2003,173,Bowling Green,28,12,16,1810,64.6,bowling green,3132
 2003,174,Youngstown St.,28,6,22,1808,64.6,youngstown st.,3464
 2003,175,Loyola Chicago,29,12,17,1870,64.5,loyola chicago,3260
@@ -620,7 +620,7 @@
 2003,300,Washington St.,28,2,26,1555,55.5,washington st.,3450
 2003,301,UMBC,30,14,16,1665,55.5,umbc,3420
 2003,302,San Diego St.,27,9,18,1498,55.5,san diego st.,3361
-2003,303,CSUN,27,3,24,1497,55.4,lsu,3261
+2003,303,CSUN,27,3,24,1497,55.4,lsu,3169
 2003,304,Central Conn. St.,28,8,20,1550,55.4,central conn. st.,3148
 2003,305,Northwestern,28,8,20,1547,55.3,northwestern,3321
 2003,306,Iona,28,1,27,1539,55,iona,3233
@@ -835,7 +835,7 @@
 2004,194,Rider,28,5,23,1750,62.5,rider,3351
 2004,195,William & Mary,29,11,18,1811,62.4,william & mary,3456
 2004,195,Indiana,29,12,17,1811,62.4,indiana,3231
-2004,197,Army West Point,28,14,14,1747,62.4,armstrong,3118
+2004,197,Army West Point,28,14,14,1747,62.4,armstrong,3119
 2004,198,Elon,29,17,12,1809,62.4,elon,3189
 2004,199,Saint Joseph's,33,22,11,2058,62.4,saint joseph's,3386
 2004,200,UCF,30,17,13,1869,62.3,ucf,3416
@@ -855,7 +855,7 @@
 2004,214,Kansas,28,9,19,1727,61.7,kansas,3242
 2004,215,Northeastern,30,15,15,1850,61.7,northeastern,3318
 2004,216,Wagner,28,11,17,1725,61.6,wagner,3447
-2004,217,CSUN,26,6,20,1601,61.6,lsu,3261
+2004,217,CSUN,26,6,20,1601,61.6,lsu,3169
 2004,218,Coastal Caro.,28,13,15,1723,61.5,coastal caro.,3157
 2004,219,Northern Ariz.,28,12,16,1721,61.5,northern ariz.,3319
 2004,220,American,30,16,14,1841,61.4,american,3110
@@ -1067,7 +1067,7 @@
 2005,102,Utah,34,26,8,2241,65.9,utah,3428
 2005,103,Dartmouth,28,17,11,1841,65.8,dartmouth,3171
 2005,104,California,29,11,18,1905,65.7,california,3143
-2005,105,CSUN,29,18,11,1903,65.6,lsu,3261
+2005,105,CSUN,29,18,11,1903,65.6,lsu,3169
 2005,106,South Fla.,32,21,11,2099,65.6,south fla.,3378
 2005,107,Hofstra,29,13,16,1900,65.5,hofstra,3220
 2005,108,Oregon,31,21,10,2030,65.5,oregon,3332
@@ -1135,7 +1135,7 @@
 2005,170,Georgia St.,30,16,14,1875,62.5,georgia st.,3209
 2005,171,Pittsburgh,28,13,15,1749,62.5,pittsburgh,3338
 2005,172,San Francisco,28,12,16,1748,62.4,san francisco,3362
-2005,173,Army West Point,28,15,13,1747,62.4,armstrong,3118
+2005,173,Army West Point,28,15,13,1747,62.4,armstrong,3119
 2005,174,Lamar University,27,9,18,1683,62.3,american university,3110
 2005,175,Purdue,30,17,13,1865,62.2,purdue,3345
 2005,176,UNI,31,20,11,1926,62.1,uni,3320
@@ -1368,7 +1368,7 @@
 2006,80,Arkansas St.,30,15,15,2029,67.6,arkansas st.,3117
 2006,81,Stony Brook,30,20,10,2028,67.6,stony brook,3392
 2006,82,Iona,29,17,12,1959,67.6,iona,3233
-2006,83,Army West Point,31,20,11,2094,67.5,armstrong,3118
+2006,83,Army West Point,31,20,11,2094,67.5,armstrong,3119
 2006,84,Minnesota,29,19,10,1958,67.5,minnesota,3278
 2006,85,Long Beach St.,28,18,10,1890,67.5,long beach st.,3253
 2006,86,Cincinnati,29,17,12,1957,67.5,cincinnati,3153
@@ -1425,7 +1425,7 @@
 2006,137,Austin Peay,28,15,13,1821,65,austin peay,3122
 2006,138,Eastern Mich.,30,22,8,1951,65,eastern mich.,3185
 2006,139,Harvard,27,12,15,1751,64.9,harvard,3217
-2006,140,CSUN,30,10,20,1945,64.8,lsu,3261
+2006,140,CSUN,30,10,20,1945,64.8,lsu,3169
 2006,141,California,30,18,12,1944,64.8,california,3143
 2006,142,FIU,32,19,13,2073,64.8,fiu,3198
 2006,143,UTEP,29,14,15,1876,64.7,utep,3431
@@ -1654,7 +1654,7 @@
 2007,42,Oklahoma St.,31,20,11,2200,71,oklahoma st.,3329
 2007,43,Charlotte,32,19,13,2270,70.9,charlotte,3150
 2007,44,Marquette,33,26,7,2340,70.9,marquette,3266
-2007,45,CSUN,29,13,16,2055,70.9,lsu,3261
+2007,45,CSUN,29,13,16,2055,70.9,lsu,3169
 2007,46,Davidson,32,23,9,2260,70.6,davidson,3172
 2007,47,N.C. A&T,30,17,13,2115,70.5,n.c. a&t,3299
 2007,48,Old Dominion,33,24,9,2325,70.5,old dominion,3330
@@ -1768,7 +1768,7 @@
 2007,156,Coppin St.,33,25,8,2119,64.2,coppin st.,3164
 2007,157,Loyola Maryland,30,18,12,1926,64.2,loyola maryland,3259
 2007,158,Grambling,31,12,19,1989,64.2,grambling,3212
-2007,159,Army West Point,30,24,6,1923,64.1,armstrong,3118
+2007,159,Army West Point,30,24,6,1923,64.1,armstrong,3119
 2007,160,Southern Ill.,32,21,11,2048,64,southern ill.,3356
 2007,160,VCU,30,17,13,1920,64,vcu,3433
 2007,160,FIU,30,16,14,1920,64,fiu,3198
@@ -2198,7 +2198,7 @@
 2008,262,Ill.-Chicago,30,10,20,1769,59,ill.-chicago,3227
 2008,263,Charleston So.,30,8,22,1767,58.9,charleston so.,3149
 2008,264,UMBC,30,9,21,1766,58.9,umbc,3420
-2008,265,Army West Point,30,18,12,1762,58.7,armstrong,3118
+2008,265,Army West Point,30,18,12,1762,58.7,armstrong,3119
 2008,265,Campbell,30,12,18,1762,58.7,campbell,3144
 2008,267,Oregon,31,14,17,1814,58.5,oregon,3332
 2008,268,New Hampshire,29,7,22,1695,58.4,new hampshire,3306
@@ -2226,7 +2226,7 @@
 2008,290,Stony Brook,31,8,23,1752,56.5,stony brook,3392
 2008,291,Wake Forest,30,15,15,1694,56.5,wake forest,3448
 2008,292,Sam Houston St.,29,1,28,1635,56.4,sam houston st.,3358
-2008,293,CSUN,27,1,26,1519,56.3,lsu,3261
+2008,293,CSUN,27,1,26,1519,56.3,lsu,3169
 2008,294,Penn,29,7,22,1629,56.2,penn,3335
 2008,295,Alcorn,30,12,18,1680,56,alcorn,3108
 2008,295,Air Force,29,10,19,1624,56,air force,3102
@@ -2490,7 +2490,7 @@
 2009,228,Wyoming,30,16,14,1795,59.8,wyoming,3461
 2009,229,LSU,30,19,11,1794,59.8,lsu,3261
 2009,230,Siena,28,10,18,1674,59.8,siena,3373
-2009,231,CSUN,31,8,23,1853,59.8,lsu,3261
+2009,231,CSUN,31,8,23,1853,59.8,lsu,3169
 2009,232,UNC Asheville,30,10,20,1791,59.7,unc asheville,3421
 2009,233,Washington St.,30,11,19,1787,59.6,washington st.,3450
 2009,233,Rider,30,10,20,1787,59.6,rider,3351
@@ -2561,7 +2561,7 @@
 2009,299,UTRGV,30,14,16,1660,55.3,utrgv,3410
 2009,300,New Hampshire,31,8,23,1714,55.3,new hampshire,3306
 2009,301,Alabama A&M,29,11,18,1595,55,alabama a&m,3105
-2009,302,Army West Point,31,19,12,1702,54.9,armstrong,3118
+2009,302,Army West Point,31,19,12,1702,54.9,armstrong,3119
 2009,303,Louisiana,30,3,27,1647,54.9,se louisiana,3368
 2009,304,Villanova,33,19,14,1810,54.8,villanova,3437
 2009,305,Rhode Island,31,10,21,1673,54,rhode island,3348
@@ -2821,7 +2821,7 @@
 2010,231,Wofford,29,8,21,1759,60.7,wofford,3459
 2010,232,Florida A&M,29,18,11,1758,60.6,florida a&m,3197
 2010,233,Washington,31,13,18,1879,60.6,washington,3449
-2010,234,CSUN,28,4,24,1695,60.5,lsu,3261
+2010,234,CSUN,28,4,24,1695,60.5,lsu,3169
 2010,235,Hawaii,30,10,20,1815,60.5,hawaii,3218
 2010,236,Alcorn,28,8,20,1691,60.4,alcorn,3108
 2010,237,Weber St.,29,9,20,1751,60.4,weber st.,3451
@@ -2906,7 +2906,7 @@
 2010,316,Rider,30,4,26,1581,52.7,rider,3351
 2010,317,Winthrop,31,13,18,1633,52.7,winthrop,3457
 2010,318,Villanova,30,14,16,1573,52.4,villanova,3437
-2010,319,Army West Point,29,11,18,1519,52.4,armstrong,3118
+2010,319,Army West Point,29,11,18,1519,52.4,armstrong,3119
 2010,320,La Salle,29,7,22,1503,51.8,la salle,3247
 2010,321,IUPUI,29,3,26,1498,51.7,iupui,3237
 2010,322,Dartmouth,28,11,17,1438,51.4,dartmouth,3171
@@ -3190,7 +3190,7 @@
 2011,267,Southern U.,32,20,12,1844,57.6,southern u.,3380
 2011,269,Georgia St.,31,12,19,1786,57.6,georgia st.,3209
 2011,270,Western Ill.,29,8,21,1662,57.3,western ill.,3442
-2011,271,CSUN,30,4,26,1719,57.3,lsu,3261
+2011,271,CSUN,30,4,26,1719,57.3,lsu,3169
 2011,272,Evansville,30,8,22,1714,57.1,evansville,3191
 2011,273,Fairleigh Dickinson,30,14,16,1710,57,fairleigh dickinson,3192
 2011,274,Central Conn. St.,30,19,11,1708,56.9,central conn. st.,3148
@@ -3236,7 +3236,7 @@
 2011,314,NJIT,28,7,21,1498,53.5,njit,3312
 2011,315,Coastal Caro.,29,10,19,1545,53.3,coastal caro.,3157
 2011,316,Marshall,30,9,21,1597,53.2,marshall,3267
-2011,317,Army West Point,29,13,16,1541,53.1,armstrong,3118
+2011,317,Army West Point,29,13,16,1541,53.1,armstrong,3119
 2011,318,Delaware St.,29,9,20,1540,53.1,delaware st.,3175
 2011,319,Ark.-Pine Bluff,29,1,28,1539,53.1,ark.-pine bluff,3115
 2011,320,Saint Peter's,31,6,25,1638,52.8,saint peter's,3389
@@ -3379,7 +3379,7 @@
 2012,124,San Jose St.,30,11,19,1933,64.4,san jose st.,3363
 2012,125,Sacred Heart,33,25,8,2125,64.4,sacred heart,3357
 2012,126,James Madison,37,29,8,2378,64.3,james madison,3241
-2012,127,CSUN,31,17,14,1992,64.3,lsu,3261
+2012,127,CSUN,31,17,14,1992,64.3,lsu,3169
 2012,128,Sam Houston St.,30,18,12,1927,64.2,sam houston st.,3358
 2012,129,Northwestern,30,14,16,1923,64.1,northwestern,3321
 2012,130,Toledo,34,24,10,2179,64.1,toledo,3405
@@ -3531,7 +3531,7 @@
 2012,276,Jackson St.,28,11,17,1586,56.6,jackson st.,3238
 2012,277,North Florida,30,13,17,1696,56.5,north florida,3316
 2012,278,Delaware St.,30,7,23,1695,56.5,delaware st.,3175
-2012,279,Army West Point,30,14,16,1692,56.4,armstrong,3118
+2012,279,Army West Point,30,14,16,1692,56.4,armstrong,3119
 2012,280,Fla. Atlantic,30,17,13,1691,56.4,fla. atlantic,3194
 2012,281,Western Ky.,30,9,21,1689,56.3,western ky.,3443
 2012,282,Belmont,30,12,18,1678,55.9,belmont,3125
@@ -3814,7 +3814,7 @@
 2013,223,Furman,30,12,18,1790,59.7,furman,3202
 2013,224,Monmouth,30,15,15,1786,59.5,monmouth,3284
 2013,225,Providence,30,7,23,1784,59.5,providence,3344
-2013,226,CSUN,32,16,16,1902,59.4,lsu,3261
+2013,226,CSUN,32,16,16,1902,59.4,lsu,3169
 2013,227,North Dakota,29,11,18,1723,59.4,north dakota,3315
 2013,228,Washington St.,31,11,20,1841,59.4,washington st.,3450
 2013,229,Southeast Mo. St.,29,11,18,1722,59.4,southeast mo. st.,3369
@@ -3844,7 +3844,7 @@
 2013,253,Alabama A&M,29,9,20,1673,57.7,alabama a&m,3105
 2013,254,Fairleigh Dickinson,29,12,17,1665,57.4,fairleigh dickinson,3192
 2013,255,Niagara,31,15,16,1778,57.4,niagara,3310
-2013,256,Army West Point,31,22,9,1776,57.3,armstrong,3118
+2013,256,Army West Point,31,22,9,1776,57.3,armstrong,3119
 2013,256,Oregon St.,31,10,21,1776,57.3,oregon st.,3333
 2013,258,Cornell,28,13,15,1601,57.2,cornell,3165
 2013,259,South Ala.,30,17,13,1715,57.2,south ala.,3375
@@ -4090,7 +4090,7 @@
 2014,155,Portland,30,14,16,2048,68.3,portland,3339
 2014,157,Nicholls St.,31,17,14,2116,68.3,nicholls st.,3311
 2014,158,Tennessee Tech,30,12,18,2047,68.2,tennessee tech,3399
-2014,159,CSUN,33,18,15,2251,68.2,lsu,3261
+2014,159,CSUN,33,18,15,2251,68.2,lsu,3169
 2014,160,Old Dominion,34,18,16,2319,68.2,old dominion,3330
 2014,161,Buffalo,30,17,13,2046,68.2,buffalo,3138
 2014,162,SMU,32,18,14,2182,68.2,smu,3374
@@ -4123,7 +4123,7 @@
 2014,189,Kansas,32,13,19,2134,66.7,kansas,3242
 2014,190,Middle Tenn.,34,29,5,2267,66.7,middle tenn.,3292
 2014,191,Arkansas,30,19,11,1997,66.6,arkansas,3116
-2014,192,Army West Point,33,25,8,2196,66.5,armstrong,3118
+2014,192,Army West Point,33,25,8,2196,66.5,armstrong,3119
 2014,193,Ohio St.,35,17,18,2325,66.4,ohio st.,3326
 2014,194,Utah Valley,30,7,23,1989,66.3,utah valley,3430
 2014,195,St. John's (NY),34,23,11,2254,66.3,st. john's (ny),3385
@@ -4387,7 +4387,7 @@
 2015,110,NC State,33,18,15,2221,67.3,nc state,3301
 2015,111,Cal Poly,29,15,14,1951,67.3,cal poly,3142
 2015,112,Liberty,33,26,7,2217,67.2,liberty,3251
-2015,112,CSUN,33,23,10,2217,67.2,lsu,3261
+2015,112,CSUN,33,23,10,2217,67.2,lsu,3169
 2015,114,Nebraska,32,21,11,2148,67.1,nebraska,3304
 2015,115,Georgia St.,30,13,17,2012,67.1,georgia st.,3209
 2015,116,Wake Forest,33,13,20,2211,67,wake forest,3448
@@ -4533,7 +4533,7 @@
 2015,256,Penn,30,21,9,1815,60.5,penn,3335
 2015,257,Ga. Southern,29,5,24,1754,60.5,ga. southern,3204
 2015,258,Northeastern,29,4,25,1751,60.4,northeastern,3318
-2015,259,Army West Point,31,23,8,1870,60.3,armstrong,3118
+2015,259,Army West Point,31,23,8,1870,60.3,armstrong,3119
 2015,260,Stony Brook,31,17,14,1868,60.3,stony brook,3392
 2015,261,Sam Houston St.,28,6,22,1680,60,sam houston st.,3358
 2015,262,UTSA,31,16,15,1857,59.9,utsa,3427
@@ -4686,7 +4686,7 @@
 2016,66,Albany (NY),33,28,5,2322,70.4,albany (ny),3107
 2016,67,Missouri St.,34,24,10,2390,70.3,missouri st.,3283
 2016,67,Saint Louis,34,26,8,2390,70.3,saint louis,3387
-2016,69,Army West Point,32,29,3,2249,70.3,armstrong,3118
+2016,69,Army West Point,32,29,3,2249,70.3,armstrong,3119
 2016,70,Detroit Mercy,30,15,15,2105,70.2,detroit mercy,3178
 2016,71,Temple,35,23,12,2455,70.1,temple,3396
 2016,72,South Dakota St.,34,27,7,2383,70.1,south dakota st.,3355
@@ -4828,7 +4828,7 @@
 2016,208,Iona,35,23,12,2187,62.5,iona,3233
 2016,209,Gardner-Webb,31,19,12,1936,62.5,gardner-webb,3205
 2016,210,Western Caro.,29,7,22,1811,62.4,western caro.,3441
-2016,211,CSUN,31,7,24,1933,62.4,lsu,3261
+2016,211,CSUN,31,7,24,1933,62.4,lsu,3169
 2016,212,Marist,32,16,16,1993,62.3,marist,3265
 2016,213,Old Dominion,34,17,17,2117,62.3,old dominion,3330
 2016,213,Rutgers,34,19,15,2117,62.3,rutgers,3353
@@ -5092,14 +5092,14 @@
 2017,128,UNI,33,24,9,2208,66.9,uni,3320
 2017,129,Hartford,31,17,14,2072,66.8,hartford,3216
 2017,130,IUPUI,33,24,9,2205,66.8,iupui,3237
-2017,131,Army West Point,31,22,9,2066,66.6,armstrong,3118
+2017,131,Army West Point,31,22,9,2066,66.6,armstrong,3119
 2017,132,Northwestern St.,30,13,17,1999,66.6,northwestern st.,3322
 2017,133,Washington St.,36,16,20,2398,66.6,washington st.,3450
 2017,134,Navy,34,24,10,2261,66.5,navy,3298
 2017,135,Southern Utah,30,7,23,1993,66.4,southern utah,3381
 2017,136,UAB,30,15,15,1992,66.4,uab,3412
 2017,137,Missouri,33,22,11,2189,66.3,missouri,3281
-2017,138,CSUN,32,18,14,2121,66.3,lsu,3261
+2017,138,CSUN,32,18,14,2121,66.3,lsu,3169
 2017,139,Georgetown,30,17,13,1988,66.3,georgetown,3207
 2017,140,Albany (NY),33,21,12,2186,66.2,albany (ny),3107
 2017,141,Oklahoma St.,32,17,15,2118,66.2,oklahoma st.,3329
@@ -5491,7 +5491,7 @@
 2018,182,Alcorn,28,11,17,1817,64.9,alcorn,3108
 2018,183,Howard,29,12,17,1881,64.9,howard,3224
 2018,184,Furman,30,17,13,1944,64.8,furman,3202
-2018,185,CSUN,29,15,14,1877,64.7,lsu,3261
+2018,185,CSUN,29,15,14,1877,64.7,lsu,3169
 2018,185,Marshall,29,9,20,1877,64.7,marshall,3267
 2018,187,Dartmouth,25,14,11,1617,64.7,dartmouth,3171
 2018,188,Akron,28,8,20,1809,64.6,akron,3103
@@ -5570,7 +5570,7 @@
 2018,261,Fordham,30,22,8,1842,61.4,fordham,3200
 2018,262,A&M-Corpus Christi,28,17,11,1719,61.4,a&m-corpus chris,3394
 2018,263,Illinois,31,9,22,1902,61.4,illinois,3228
-2018,264,Army West Point,29,16,13,1778,61.3,armstrong,3118
+2018,264,Army West Point,29,16,13,1778,61.3,armstrong,3119
 2018,265,Siena,29,16,13,1776,61.2,siena,3373
 2018,266,UNCW,28,11,17,1704,60.9,unc,3314
 2018,266,Wyoming,28,20,8,1704,60.9,wyoming,3461
